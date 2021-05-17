@@ -17,10 +17,10 @@ this program).
 `python3 MNIG_to_FMMSP 5 1.1 4`
 
 This example command makes the algorithm run 250 iterations (which comes
-from 10\*5^2^).
+from $10*5^2$).
 
 The meanings of the arguments are taken from the MNIG algorithm, they
-are N, T~0~, and d, respectively.
+are $N$, $T_0$, and $d$, respectively.
 
 # Installation
 
