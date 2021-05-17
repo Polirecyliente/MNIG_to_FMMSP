@@ -24,8 +24,15 @@ are N, T~0~, and d, respectively.
 
 # Installation
 
-Download the release and execute it as described in the Usage (so you
-need to have the `python3` interpreter installed already).
+Download the release and extract it. The command shown in Usage is
+executed in the same directory as the one that contains the extracted program.
+
+## Dependencies
+
+You must have the following, already installed.
+
+- The `python3` interpreter.
+- The Numpy module.
 
 # Details about the code
 
