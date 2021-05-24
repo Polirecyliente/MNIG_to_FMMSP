@@ -32,7 +32,7 @@ executed in the same directory as the one that contains the extracted program.
 You must have the following, already installed.
 
 - The `python3` interpreter.
-- The Numpy module.
+- The Numpy module
 
 # Details about the code
 
